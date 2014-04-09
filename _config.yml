@@ -1,0 +1,4 @@
+name: Testing with scratchpadwiki
+markdown: redcarpet
+pygments: true
+baseurl: /scratchpadwiki
